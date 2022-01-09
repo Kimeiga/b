@@ -4,6 +4,9 @@ search_exclude: true
 image: images/logo.png
 ---
 
+![image](https://user-images.githubusercontent.com/20587215/148674692-a937c843-a2f6-451d-955d-74926009a6bb.png)
+
+
 This site is built with [fastpages](https://github.com/fastai/fastpages), An easy to use blogging platform with extra features for Jupyter Notebooks.
 
 ![]({{site.baseurl}}/images/diagram.png "https://github.com/fastai/fastpages")
